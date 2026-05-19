@@ -73,7 +73,7 @@
 
 <br>
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution 
 
 <div align="center">
 
