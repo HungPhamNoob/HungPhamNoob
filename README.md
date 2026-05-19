@@ -73,20 +73,20 @@
 
 <br>
 
-<!-- Contribution Snake 
+<!-- Contribution Snake -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HungPhamNoob/HungPhamNoob/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
 
 <br>
--->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=CBA6F7&colorEnd=94E2D5&height=120&section=footer&text=Open%20to%20opportunities&fontSize=24&fontColor=1E1E2E&animation=fadeIn&fontAlignY=70" />
